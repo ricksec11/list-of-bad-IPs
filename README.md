@@ -1,0 +1,1 @@
+# list-of-bad-IPs
